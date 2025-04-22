@@ -104,7 +104,7 @@ Icon=gtk-select-color <br/>
 Terminal=false <br/>
 
 ### Common System Requirements:
-	The following applications are in general use of most Linux systems and are used in having cImage deliver output: <br/>
+The following applications are in general use of most Linux systems and are used in having cImage deliver output: <br/>
 - awk <br/>
 - print <br/>
 - read <br/>
@@ -117,10 +117,10 @@ Terminal=false <br/>
 ### Critical System Requirements:
 The most important requirement is the yad (yet another dialog) application which allows for the use of custom dialog, menu, and window options.
 
-yad 14.0+ (GTK+ 3.24.41) [https://github.com/v1cont/yad]([url](https://github.com/v1cont/yad))
+yad 14.0+ (GTK+ 3.24.41) [https://github.com/v1cont/yad](https://github.com/v1cont/yad)
 The mRunner script uses features of yad that do require version 14.0+ and built with GTK+ 3.24.41 or higher. Full setup instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch) <br/>
 
-**- yad (Yet Another Dialog):** A tool for developing graphical user interfaces in Linux, is written by Victor Ananjevsky. Installation instructions: https://github.com/rweckert/yad-14.0-Setup-From-Scratch <br/>
+**- yad (Yet Another Dialog):** A tool for developing graphical user interfaces in Linux, is written by Victor Ananjevsky. Download: [https://github.com/v1cont/yad](https://github.com/v1cont/yad) Installation instructions: https://github.com/rweckert/yad-14.0-Setup-From-Scratch <br/>
 **- convert:** The convert-im6.q16 program is a member of the ImageMagick-ims6.q16 suite of tools. More information regarding this package can be found at: [https://www.imagemagick.org/script/convert.php](https://www.imagemagick.org/script/convert.php) 
 
 Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel free to email to submit bugs, changes or requests.
