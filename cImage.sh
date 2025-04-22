@@ -383,7 +383,7 @@ $fcall tBrowse
 
 # Main Help: ===========================
 function mHelp {
-yad --html --browser --css="$tp" --width=900 --height=500 --posx=20 --posy=115 --title="yColor-Documentation" --name="mHelp" --window-icon="text-html" --uri="/home/rweckert/WinXBin/Source/cImage/readme-cImage.txt" --file-op
+yad --html --browser --css="$tp" --width=900 --height=500 --posx=20 --posy=115 --title="yColor-Documentation" --name="mHelp" --window-icon="text-html" --uri="https://github.com/rweckert/cImage/blob/e3d411394b61fa4bb2371f546556f9923e48ea0f/README.md" --file-op
 }
 $fcall mHelp
 
