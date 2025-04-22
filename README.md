@@ -7,7 +7,7 @@ Easily extract colors from a image. Options include to vary the amount of colors
 ![cImage Screenshot](https://github.com/rweckert/cImage/blob/e3d411394b61fa4bb2371f546556f9923e48ea0f/screenshot-cImage.jpg)
 
 ### Setup:
-1. Please review "Common System Requirements" and "Critical System Requirements" sections below for basic and critical requirements to run this script successfully.
+1. Please review "[Common System Requirements](https://github.com/rweckert/cImage/blob/main/README.md#common-system-requirements)" and "[Critical System Requirements](https://github.com/rweckert/cImage/blob/main/README.md#critical-system-requirements)" sections below for basic and critical requirements to run this script successfully.
 2. Save the cImage.sh file to a directory. <br/>
 3. Make the cImage.sh script executable by running the following command in the same directory as the cImage.sh file: <br/>
 _chmod +x cImage.sh_
