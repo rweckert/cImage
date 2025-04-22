@@ -134,4 +134,7 @@ Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel f
 **Documentation File:** <br/>
 [https://github.com/rweckert/cImage/blob/e3d411394b61fa4bb2371f546556f9923e48ea0f/README.md](https://github.com/rweckert/cImage/blob/e3d411394b61fa4bb2371f546556f9923e48ea0f/README.md) <br/>
 **Project Screenshot:** <br/>
-[https://github.com/rweckert/cImage/blob/e3d411394b61fa4bb2371f546556f9923e48ea0f/screenshot-cImage.jpg](https://github.com/rweckert/cImage/blob/e3d411394b61fa4bb2371f546556f9923e48ea0f/screenshot-cImage.jpg)
+[https://github.com/rweckert/cImage/blob/e3d411394b61fa4bb2371f546556f9923e48ea0f/screenshot-cImage.jpg](https://github.com/rweckert/cImage/blob/e3d411394b61fa4bb2371f546556f9923e48ea0f/screenshot-cImage.jpg) <br/>
+**GitHub Profile Page:** <br/>
+[https://github.com/rweckert](https://github.com/rweckert)
+
