@@ -7,7 +7,7 @@
 # \  \___|   |  Y Y  \/ __ \_/ /_/  >  ___/ 
 #  \___  >___|__|_|  (____  /\___  / \___  >
 #      \/          \/     \//_____/      \/ v:1.2
-# A small image to color value listing utiliy.
+# A small image to color value listing utility.
 
 fcall="export -f"
 bcall="bash -c"
@@ -394,7 +394,7 @@ yad --about --css="$tp" \
 --image="text-x-script" \
 --authors="Robert W Eckert - rweckert@gmail.com" \
 --license="GPL3" \
---comments="A small image to color value listing utiliy." \
+--comments="A small image to color value listing utility." \
 --copyright="Updated 04/21/2025 by Robert W Eckert" \
 --pversion="Version: 1.2" \
 --pname="cImage" \
