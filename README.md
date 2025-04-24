@@ -105,15 +105,7 @@ Icon=gtk-select-color <br/>
 Terminal=false <br/>
 
 ### Common System Requirements:
-The following applications are in general use of most Linux systems and are used in having cImage deliver output: <br/>
-- awk <br/>
-- print <br/>
-- read <br/>
-- rm <br/>
-- sed <br/>
-- while <br/>
-- wmctrl <br/>
-- xdg-open <br/>
+Common shell commands found in most Linux installations are used to provide system functionalilty for this and other scripts shared from this profile. For thoroughness, these common shell commands are listed in alphabetical order with version and man page link for review: [https://github.com/rweckert/cImage/blob/6bee84ee688c49c13131fcc7ca01f0926b80cd3b/README-Basic-Requirements.md](https://github.com/rweckert/cImage/blob/6bee84ee688c49c13131fcc7ca01f0926b80cd3b/README-Basic-Requirements.md)
 
 ### Critical System Requirements:
 Packages listed below provide the core ingredients for graphic display and desired output that enables cImage deliver output and are critical for successful execution of the the script:
