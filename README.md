@@ -1,4 +1,4 @@
-# cImage
+# <img align="left" width="48" src="Icon-cImage.png" /> cImage
 A small image to color value listing utility.
 
 ### Script Purpose as a Tool:
@@ -116,15 +116,19 @@ The following applications are in general use of most Linux systems and are used
 - xdg-open <br/>
 
 ### Critical System Requirements:
-The most important requirement is the yad (yet another dialog) application which allows for the use of custom dialog, menu, and window options.
+Packages listed below provide the core ingredients for graphic display and desired output that enables cImage deliver output and are critical for successful execution of the the script:
 
-yad 14.0+ (GTK+ 3.24.41) [https://github.com/v1cont/yad](https://github.com/v1cont/yad)
-This script uses features of yad that do require version 14.0+ and built with GTK+ 3.24.41 or higher. Full setup instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch) <br/>
-
-**- yad (Yet Another Dialog):** A tool for developing graphical user interfaces in Linux, is written by Victor Ananjevsky. Download: [https://github.com/v1cont/yad](https://github.com/v1cont/yad) Installation instructions: https://github.com/rweckert/yad-14.0-Setup-From-Scratch <br/>
-**- convert:** The convert-im6.q16 program is a member of the ImageMagick-ims6.q16 suite of tools. More information regarding this package can be found at: [https://www.imagemagick.org/script/convert.php](https://www.imagemagick.org/script/convert.php) 
+| Package       | Version              | Notes         |
+|     :---:     |         :---:        | :---          |
+| **yad** | 14.0+ (GTK+ 3.24.41) | A tool for developing graphical user interfaces in Linux and is used by this script to generate menus and dialog windows, is written by Victor Ananjevsky. **Download:** [https://github.com/v1cont/yad](https://github.com/v1cont/yad) **Setup:** Step by step instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch) |
+| **convert** | ImageMagick 6.9.12-98 | The convert-im6.q16 program is a member of the ImageMagick-ims6.q16 suite of tools. More information regarding this package can be found at: [https://www.imagemagick.org/script/convert.php](https://www.imagemagick.org/script/convert.php) |
 
 Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel free to email to submit bugs, changes or requests.
+
+### Closing:
+Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel free to email to submit bugs, changes or requests. This script comes with absolutely no warranty. See the link for the GNU General Public License, version 3 or later listed below for further details.
+
+---
 
 ### Project Contents:
 **Project Page:** <br/>
@@ -137,4 +141,3 @@ Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel f
 [https://github.com/rweckert/cImage/blob/e3d411394b61fa4bb2371f546556f9923e48ea0f/screenshot-cImage.jpg](https://github.com/rweckert/cImage/blob/e3d411394b61fa4bb2371f546556f9923e48ea0f/screenshot-cImage.jpg) <br/>
 **GitHub Profile Page:** <br/>
 [https://github.com/rweckert](https://github.com/rweckert)
-
