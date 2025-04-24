@@ -123,8 +123,6 @@ Packages listed below provide the core ingredients for graphic display and desir
 | **yad** | 14.0+ (GTK+ 3.24.41) | A tool for developing graphical user interfaces in Linux and is used by this script to generate menus and dialog windows, is written by Victor Ananjevsky. **Download:** [https://github.com/v1cont/yad](https://github.com/v1cont/yad) **Setup:** Step by step instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch) |
 | **convert** | ImageMagick 6.9.12-98 | The convert-im6.q16 program is a member of the ImageMagick-ims6.q16 suite of tools. More information regarding this package can be found at: [https://www.imagemagick.org/script/convert.php](https://www.imagemagick.org/script/convert.php) |
 
-Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel free to email to submit bugs, changes or requests.
-
 ### Closing:
 Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel free to email to submit bugs, changes or requests. This script comes with absolutely no warranty. See the link for the GNU General Public License, version 3 or later listed below for further details.
 
